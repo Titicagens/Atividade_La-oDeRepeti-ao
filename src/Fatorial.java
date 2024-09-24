@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Fatorial {
+public class Fatorial{
     public static void main(String[] args) {
         // Criar um objeto Scanner para obter a entrada do usuário
         Scanner scanner = new Scanner(System.in);
